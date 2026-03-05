@@ -1,0 +1,4 @@
+interface:
+  display_name: "ETF月度回报"
+  short_description: "基于AkShare生成ETF月度回报表与CSV导出。"
+  default_prompt: "读取ETF脚本，计算月度和YTD回报，并输出包含实际月末交易日的CSV。"
