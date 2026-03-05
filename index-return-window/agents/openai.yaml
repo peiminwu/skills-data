@@ -1,0 +1,4 @@
+interface:
+  display_name: "指数区间回报"
+  short_description: "抓取多市场指数价格并导出回报 xlsx。"
+  default_prompt: "抓取特定指数过去一段时间的价格与回报，按交易日对齐并导出一个 xlsx。"
